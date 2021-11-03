@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kave08
 - 👀 I’m interested in Open-source software / Basketball / Traveling /
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Golang backend 
+- 💞️ I’m looking to collaborate on software engineer
 - 📫 How to reach me 
 -   Twitter : https://twitter.com/kave_08 
 -   Skype ID : kaverioter 
