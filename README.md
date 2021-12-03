@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 -   Twitter : https://twitter.com/kave_08 
 -   Skype ID : kaverioter 
--   gmail : kave.mailbox@yahoo.com
+-   mail : kave.mailbox@yahoo.com
 <!---
 kave08/kave08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
