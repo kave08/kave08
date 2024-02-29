@@ -1,5 +1,5 @@
 <h1 align="left" >:wave: Hello there! I'm Kave Hudj</h1>
-<h3 align="left">I am a Software Engineer, Basketball Player and Traveler  </h3>
+<h3 align="left">I'm a Software Engineer, Basketball Player and Traveler </h3>
 
 
 <p align="left">
