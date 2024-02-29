@@ -11,7 +11,7 @@
   </a>
 </p>
 
-🏢  I'm currently work at Snapp  **[Snapp](https://snapp.ir/)** <br>🌱   i love Golang and Python <br>
+<br> I Love Golang & Python <br>
 
 ## 📫 How to reach me:
 -   Skype ID : kaverioter 
